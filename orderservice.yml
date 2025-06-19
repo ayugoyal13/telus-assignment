@@ -1,1 +1,10 @@
+build:
+  version: "1.1.0"
 
+accounts:
+  message: "Welcome to order service"
+  contactDetails:
+    name: "Ayush Goyal"
+    email: "ayush.goyal@telusdigital.com"
+  onCallSupport:
+    - 87553 68600
