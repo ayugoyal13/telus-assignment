@@ -10,4 +10,4 @@ accounts:
     - 87553 68600
 
 jwt:
-  secret: "QmFzZTY0RW5jb2RlZFNlY3JldEtleUhlcmUxMjM0NTY3ODkwMTIzNDU2Nzg5MA=="
+  secret: "877bbc71a918ce139e23f1ab123eaf153910b80e5859a5959055aeeec8c2f9cb"
