@@ -1,1 +1,10 @@
+build:
+  version: "1.1.0"
 
+accounts:
+  message: "Welcome to auth service"
+  contactDetails:
+    name: "Ayush Goyal"
+    email: "ayush.goyal@gmail.com"
+  onCallSupport:
+    - 87553 68600
